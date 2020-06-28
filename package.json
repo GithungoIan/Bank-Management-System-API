@@ -1,0 +1,19 @@
+{
+  "name": "bank-management-system-api",
+  "version": "1.0.0",
+  "description": "creating a bank management system api",
+  "main": "app.ja",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GithungoIan/Bank-Management-System-API.git"
+  },
+  "author": "Ian Githungo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GithungoIan/Bank-Management-System-API/issues"
+  },
+  "homepage": "https://github.com/GithungoIan/Bank-Management-System-API#readme"
+}
